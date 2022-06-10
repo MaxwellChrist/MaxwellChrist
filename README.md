@@ -6,7 +6,7 @@
 <ul>
   <li>I’m currently working on my personal portfolio</li>
   <li>I’m currently learning SQL & Node.js</li>
-  <li>I’m looking to collaborate on Personal project ideas</li>
+  <li>I’m looking to collaborate on personal project ideas</li>
   <li>I don't think I'll ever be as cool as Danny DeVito</li>
   <li>I love really bad movies</li>
 </ul>
