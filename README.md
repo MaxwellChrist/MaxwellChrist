@@ -2,9 +2,9 @@
 
 ![TommyWiseauOhHiViewer](https://user-images.githubusercontent.com/54086466/173104380-2f229122-d43b-4ee0-8ee0-3135eb114465.gif)
 
-<p>I am a current student at BloomTech(Lambda School) pursuing a career as full stack developer. I worked in a variety of career fields and felt unfulfilled, so I decided to give web development a shot. I'm loving every step of this journey to become a software engineer and I'm determined to make it in this field, so if there's anything you'd like to talk about to help me fulfill this dream, please reach out to me through LinkedIn. Additional facts about me are listed below:
+<p>I am a current student at BloomTech(Lambda School) pursuing a career as full stack developer. I worked in a variety of career fields and felt unfulfilled, so I decided to give web development a shot. I'm loving every step of this journey to become a software engineer and I'm determined to make it in this field, so if there's anything you'd like to talk about to help me fulfill this dream, or anything in between, please reach out to me through LinkedIn. Additional facts about me are listed below:
 <ul>
-  <li>I’m currently working on my personal portfolio</li>
+  <li>I’m currently working on my personal portfolio and solving coding challenges</li>
   <li>I’m currently learning SQL & Node.js</li>
   <li>I’m looking to collaborate on Personal project ideas</li>
   <li>I don't think I'll ever be as cool as Danny DeVito</li>
@@ -32,7 +32,7 @@
 
 ![Metrics](https://metrics.lecoq.io/MaxwellChrist?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-<p>Thank you for viewing my github page and have a great day!<p>
+<p>Thank you for viewing my github page and have a great day!</p>
   
 ![IASIP](https://user-images.githubusercontent.com/54086466/172971021-d7957228-0f0f-4044-909c-03b646d740fd.gif)
   
