@@ -4,7 +4,7 @@
 
 <p>I am a current student at BloomTech(Lambda School) pursuing a career as full stack developer. I worked in a variety of career fields and felt unfulfilled, so I decided to give web development a shot. I'm loving every step of this journey to become a software engineer and I'm determined to make it in this field, so if there's anything you'd like to talk about to help me fulfill this dream, or anything in between, please reach out to me through LinkedIn. Additional facts about me are listed below:
 <ul>
-  <li>I’m currently working on my personal portfolio and solving coding challenges</li>
+  <li>I’m currently working on my personal portfolio</li>
   <li>I’m currently learning SQL & Node.js</li>
   <li>I’m looking to collaborate on Personal project ideas</li>
   <li>I don't think I'll ever be as cool as Danny DeVito</li>
