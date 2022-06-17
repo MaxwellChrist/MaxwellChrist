@@ -2,7 +2,8 @@
 
 ![TommyWiseauOhHiViewer](https://user-images.githubusercontent.com/54086466/173104380-2f229122-d43b-4ee0-8ee0-3135eb114465.gif)
 
-<p>I am a current student at BloomTech(Lambda School) pursuing a career as full stack developer. I worked in a variety of career fields and felt unfulfilled, so I decided to give web development a shot. I'm loving every step of this journey to become a software engineer and I'm determined to make it in this field, so if there's anything you'd like to talk about to help me fulfill this dream, or anything in between, please reach out to me through LinkedIn. Additional facts about me are listed below:
+<p>I am a full stack developer with a background in a variety of fields, recently contributing to dynamic web development projects. I decided to give web development a shot and I'm loving every step of this journey within software engineering. I'm determined to continue building sustainable software solutions, so please reach out to me through LinkedIn. Additional facts about me are listed below:
+</p>
 <ul>
   <li>I’m currently working on my personal portfolio</li>
   <li>I’m currently learning SQL & Node.js</li>
