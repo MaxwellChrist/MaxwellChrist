@@ -5,8 +5,8 @@
 <p>I am a full stack developer with a background in a variety of fields and I've recently been contributing to dynamic web development projects. I decided to give web development a shot and I'm loving every step of this journey. I'm determined to continue building sustainable software solutions, so please reach out to me through LinkedIn. Additional facts about me are listed below:
 </p>
 <ul>
-  <li>I’m currently working on my personal portfolio</li>
-  <li>I’m currently learning SQL & Node.js</li>
+  <li>I’m currently working on finishing a computer science course</li>
+  <li>I’m currently learning typescript along with some data structures and algorithms</li>
   <li>I’m looking to collaborate on personal project ideas</li>
   <li>I don't think I'll ever be as cool as Danny DeVito</li>
   <li>I love really bad movies</li>
